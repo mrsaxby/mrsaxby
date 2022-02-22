@@ -1,5 +1,4 @@
 - 👋 Wagwan, 
-- jacksaxby.com/portfolio/
 
 I build some stuff sometimes
 
